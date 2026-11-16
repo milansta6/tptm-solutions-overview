@@ -283,17 +283,39 @@ flowchart TB
 
 ## Screenshots
 
-> Anonymised screenshots will be added here. All client data shown is fictitious.
+> Screenshots are taken from a development environment with demo data. Names of people and of
+> third-party data providers are blurred.
 
-| View | Screenshot |
-| --- | --- |
-| Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| Financial data import | ![Financial data import](screenshots/financial-import.png) |
-| Benchmarking study | ![Benchmarking study](screenshots/benchmarking.png) |
-| Calculation (margin vs. interquartile range) | ![Calculation](screenshots/calculation.png) |
-| Source document traceability | ![Traceability](screenshots/traceability.png) |
-| Report editor | ![Report editor](screenshots/report-editor.png) |
-| Report template studio | ![Template studio](screenshots/template-studio.png) |
+### Dashboard
+Fiscal-year overview with documentation completeness per client and background job status.
+
+![Dashboard](screenshots/dashboard.png)
+
+### Benchmarking studies
+Comparable-company studies with processing status for each company.
+
+![Benchmarking studies](screenshots/benchmarking.png)
+
+### Transaction templates
+Reusable, anonymous transaction descriptions used as a starting point for client transactions.
+
+![Transaction templates](screenshots/transaction-templates.png)
+
+### Industry analysis
+Industry chapters per activity code, reusable across reports.
+
+![Industry analysis](screenshots/industry-analysis.png)
+
+### Report template studio
+Per-organisation report structure: sections, numbering and repeating blocks, with versioning
+and publishing.
+
+![Report template studio](screenshots/template-studio.png)
+
+### Audit log
+Append-only record of every change in the organisation.
+
+![Audit log](screenshots/audit-log.png)
 
 ---
 
